@@ -1,0 +1,1 @@
+Paste the data set folder named "UCI HAR Dataset" in this "Datasets" directory before running the code
